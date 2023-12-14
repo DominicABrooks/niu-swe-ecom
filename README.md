@@ -3,7 +3,7 @@
 
 ## Description
 
-E-commerce store built with the MERN (Mango, Express, React, Node.JS) stack with some Bootstrap. 
+E-commerce store built with the MERN (Mongo, Express, React, Node.JS) stack with some Bootstrap. 
 
 1. Buyers can view selection, purchase products, and view information on their orders.
 2. Employees can monitor orders and modify order information.
