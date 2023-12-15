@@ -1,21 +1,51 @@
 # CarStop 
-![image](https://user-images.githubusercontent.com/51772450/208270659-ac51a28e-c08b-4db0-8101-90d6c57c3fb1.png)
+## E-Commerce Store with MERN Stack
 
-## Description
+Welcome to my E-commerce store, a robust platform built with the MERN (MongoDB, Express.js, React, Node.js) stack, featuring Bootstrap for a sleek and responsive design.
 
-E-commerce store built with the MERN (Mongo, Express, React, Node.JS) stack with some Bootstrap. 
+### Key Features
 
-1. Buyers can view selection, purchase products, and view information on their orders.
-2. Employees can monitor orders and modify order information.
-3. Admins manage and control entire components such as users, shipping prices based on weight-class, product stock.
+1. **User-friendly Interface:**
+   - Buyers can easily navigate, browse products, and make purchases seamlessly.
+   - Intuitive design for a smooth shopping experience.
 
+2. **Order Management:**
+   - Buyers can view detailed information about their orders.
+   - Employees have the ability to monitor orders and make modifications as needed.
 
-* features:
-  * Custom Nodemailer emails for delivered and ordered products
-  * Employees can sort orders by date, status, total, and user order to 
-  * Node provides the backend environment for this application
-  * Express middleware is used to handle requests, routes, etc
-  * Mongoose schemas to model the application data
-  * MariaDB to store each product and their information
-  * React for displaying UI components
-  * Redux to manage application's state
+3. **Admin Control:**
+   - Admins have full control over user management, product listings, and shipping prices based on weight classes.
+   - Manage product stock efficiently to ensure accurate inventory.
+
+4. **Advanced Sorting for Employees:**
+   - Employees can sort orders based on date, status, total amount, and user order.
+   - Streamlined order management for enhanced productivity.
+
+5. **Nodemailer Integration:**
+   - Custom Nodemailer emails are implemented for both delivered and ordered products.
+   - Enhances communication and provides a professional touch to order notifications.
+
+### Technology Stack
+
+- **Backend:**
+  - Node.js powers the backend environment.
+  - Express.js middleware handles requests, routes, and more.
+  - Mongoose schemas are used to model the application data.
+
+- **Database:**
+  - MongoDB is utilized to store essential data for seamless retrieval.
+
+- **Database Management:**
+  - MariaDB is employed to store product information efficiently.
+
+- **Frontend:**
+  - React is employed for building dynamic and interactive UI components.
+
+- **State Management:**
+  - Redux is integrated to manage the application's state effectively.
+
+### Setup Instructions
+
+1. Clone the repository: `git clone https://github.com/DominicABrooks/CarStop.git`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm start`
