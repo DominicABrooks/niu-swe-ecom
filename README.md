@@ -30,7 +30,6 @@ Welcome to my E-commerce store, a robust platform built with the MERN (MongoDB, 
 - **Backend:**
   - Node.js powers the backend environment.
   - Express.js middleware handles requests, routes, and more.
-  - Mongoose schemas are used to model the application data.
 
 - **Database:**
   - MongoDB is utilized to store essential data for seamless retrieval.
