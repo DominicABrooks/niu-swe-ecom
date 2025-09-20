@@ -1,4 +1,4 @@
-# CarStop 
+# NIU SWE class project
 ## E-Commerce Store with MERN Stack
 
 Welcome to my E-commerce store, a robust platform built with the MERN (MongoDB, Express.js, React, Node.js) stack, featuring Bootstrap for a sleek and responsive design.
